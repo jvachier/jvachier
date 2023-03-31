@@ -16,12 +16,19 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jvachier&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvachier&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvachier&layout=compact&theme=vision-friendly-dark)](https://github.com/jvachier/github-readme-stats)
 -->
 
 - 🔭 Theoretical Physicist and Data Scientist
 - 🌱 Currently working as a Data Scientist
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvachier&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvachier&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvachier&show_icons=true&theme=transparent)](https://github.com/jvachier/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvachier&layout=compact)](https://github.com/jvachier/github-readme-stats)
+
+
+
