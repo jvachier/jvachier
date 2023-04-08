@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 - 🔭 Theoretical Physicist and Data Scientist
 - 🌱 Currently working as a Data Scientist
+- ⚡  Here my Professional Github: [jeremy vachier pro](https://github.com/jeremyvachierastra)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvachier&theme=transparent&count_private=true)](https://github.com/jvachier/github-readme-stats)
