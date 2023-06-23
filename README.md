@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 - 🌱 Currently working as a Data Scientist
 - ⚡  Here is my Professional Github: [jeremy vachier pro](https://github.com/jeremyvachierastra)
 
-
+<!--
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=jvachier&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/jvachier/github-readme-stats#gh-light-mode-only)
-
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvachier&layout=compact&count_private=true)](https://github.com/jvachier/github-readme-stats)
 
 
