@@ -27,9 +27,10 @@ Here are some ideas to get you started:
 
 <!--
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=jvachier&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/jvachier/github-readme-stats#gh-light-mode-only)
--->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvachier&layout=compact&count_private=true)](https://github.com/jvachier/github-readme-stats)
+-->
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvachier&hide_progress=true)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
