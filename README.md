@@ -26,7 +26,7 @@ Here are some ideas to get you started:
     * I specialise in applying **Stochastic Processes** to model complex systems, transforming abstract mathematical concepts into practical solutions.
 - 🌱 **Current Role**
     * Working as a **Senior Data Scientist**, I leverage machine learning, optimise data pipelines, and tackle complex challenges to uncover novel insights from intricate data sets.
-- 💡 Feel free to explore my GitHub repositories showcasing my work in theoretical physics and data science.
+- 💡 Feel free to explore my GitHub repositories showcasing my work in theoretical physics and data science. Walk through of my private repositories are available on request.
 - 🌐 Connect with me for collaboration opportunities or to discuss exciting projects in data science and physics!
 
 <!--
