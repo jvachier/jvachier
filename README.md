@@ -47,9 +47,8 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvachier&layout=compact&count_private=true)](https://github.com/jvachier/github-readme-stats)
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvachier&hide_progress=true)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvachier&rank_icon=github)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jvachier&layout=compact&hide_progress=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jvachier&rank_icon=github)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
